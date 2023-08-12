@@ -1,3 +1,3 @@
-fullstackopen part3
+fullstackopen Part 3 Exercises
 
-link: https://phonebook-x19v.onrender.com/
+live: https://phonebook-x19v.onrender.com/
